@@ -1,0 +1,8 @@
+com.delaroystudios.studentmgt.app-pngs-0 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\generated\res\pngs\debug
+com.delaroystudios.studentmgt.app-resValues-1 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\generated\res\resValues\debug
+com.delaroystudios.studentmgt.app-rs-2 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\generated\res\rs\debug
+com.delaroystudios.studentmgt.app-mergeDebugResources-3 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.delaroystudios.studentmgt.app-mergeDebugResources-4 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.delaroystudios.studentmgt.app-merged_res-5 G:\AndroidStudentMgt\AndroidStudentMgt\app\build\intermediates\merged_res\debug
+com.delaroystudios.studentmgt.app-debug-6 G:\AndroidStudentMgt\AndroidStudentMgt\app\src\debug\res
+com.delaroystudios.studentmgt.app-main-7 G:\AndroidStudentMgt\AndroidStudentMgt\app\src\main\res

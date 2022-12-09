@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.delaroystudios.studentmgt.app-merged_res-5:/layout_activity_student_main.xml.flat",
+        "source": "com.delaroystudios.studentmgt.app-main-7:/layout/activity_student_main.xml"
+    },
+    {
+        "merged": "com.delaroystudios.studentmgt.app-merged_res-5:/menu_student_main.xml.flat",
+        "source": "com.delaroystudios.studentmgt.app-main-7:/menu/student_main.xml"
+    }
+]
